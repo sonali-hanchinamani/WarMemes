@@ -1,7 +1,7 @@
 title: "War And Propoganda"
 email: chsonali26@gmail.com
 timezone: CET
-baseurl: "/war-and-propoganda"
+baseurl: "/WarMemes"
 permalink: "/:title/"
 logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/favicon.ico'
