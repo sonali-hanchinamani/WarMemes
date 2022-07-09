@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.jpg
+image: assets/images/ad.jpg
 ---
 This website was created with one main purpose. Our team would like to bring light on situation in Ukraine and Russian invasion of Ukraine from it's citizen's perspective. 
 <br/>The best way to do it - memes. 
