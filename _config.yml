@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+title: "War And Propoganda"
+email: chsonali26@gmail.com
+timezone: CET
+baseurl: "/war-and-propoganda"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Sonali
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -24,28 +24,22 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Sonali:
+    name: Sonali
+    display_name: Sonali
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    email: chsonali26@gmail.com
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+  Anastasia:
+    name: Anastasia
+    display_name: Anastasia
     avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    email: ana@gmail.com
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
 
 # Plugins
 plugins: 
