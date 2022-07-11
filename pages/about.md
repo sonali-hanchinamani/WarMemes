@@ -4,11 +4,13 @@ title: About
 permalink: "/about/"
 image: assets/images/ad.jpg
 ---
-This website was created with one main purpose. Our team would like to bring light on situation in Ukraine and Russian invasion of Ukraine from it's citizen's perspective. 
-<br/>The best way to do it - memes. 
+This website was created with one main purpose. Bringing light to the situation in Ukraine and share the war from the perspective of ukrainians living through it. We choose meme to just do that.
+The memes were taken from popluar meme channels on telegram.
+We provided some explanations to make it easier for you to understand them.
+We hope we succeeded in doing that.
 
-The collection of them that you can find on main page, was taken from most popular meme channels in telegram . To make easier for reader, we provided explanations and pictures that would help. 
+For any additional questions, feedback or idea proposal, we would appreciate you contacting us vis Instagram or contact form.
 
-We hope that you will find the answers to questions you are looking for. For any additional questions, feedback or idea proposal, we would appreciate you contacting us through contact from or straight via Instagram page, that you can fit at the top of the page.
+Happy reading!
 
 
