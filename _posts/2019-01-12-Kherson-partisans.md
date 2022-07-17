@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Kherson partisans, russian army"
-author: Anastasia
-categories: [meme]
+author: sal
+categories: [ Jekyll, tutorial ]
 image: assets/images/17.jpg
 ---
 In the first days of the occupation in March, Russian troops faced fierce resistance in Kherson and other Ukrainian regions as locals took to the streets to protest. Eventually, the demonstrations dwindled under the use of intimidation and violence, but the resistance didn’t vanish – it went underground. Now, Russian forces are facing a movement resisting occupation rule. Let’s see what ordinary people and Ukrainian defenders do to battle Russian soldiers and the occupation administration in Kherson Oblast.

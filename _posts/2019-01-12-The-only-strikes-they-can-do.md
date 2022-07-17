@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The only protests they can do"
-author: Anastasia
-categories: [meme]
+author: sal
+categories: [ Jekyll, tutorial ]
 image: assets/images/17.jpg
 ---
 Following the Russian invasion of Ukraine on 24 February 2022, anti-war demonstrations and protests broke out across Russia. As well as the demonstrations, a number of petitions and open letters have been penned in opposition to the war, and a number of public figures, both cultural and political, have released statements against the war.
