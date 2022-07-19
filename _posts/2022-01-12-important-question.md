@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Important question..."
-author: sal
+author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/15.jpg
 ---
@@ -17,7 +17,7 @@ In December 2021, he published the documentary “Why They Torture in Russia” 
 
 In February 2022, after Russia launched its invasion of Ukraine, Dud condemned the invasion and publicly called for Russian troops to be withdrawn from Ukraine. Dud described the invasion as an "imperial frenzy" that he doesn't want to be a part of. A complaint about his anti-war posts were filed to the Prosecutor-General of Russia's Office and Ministry of Justice, calling for Dud to be designated as a "foreign agent". On 15 April, Dud was designated by the Ministry of Justice as a "foreign agent". He left his country to continue working from Istanbul. 
 
-https://www.kommersant.ru/doc/5448327
+<https://www.kommersant.ru/doc/5448327/>
 
 <p><image style="width:100%;" height="315" src="https://iv.kommersant.ru/Issues.photo/NEWS/2021/06/10/KMO_111307_37200_1_t218_163628.jpg" frameborder="0" allowfullscreen></image></p>
 

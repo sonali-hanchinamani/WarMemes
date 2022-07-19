@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When everyone didn't understand, why grannies were buying salt. But they definitely knew something"
-author: sal
+author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
 ---

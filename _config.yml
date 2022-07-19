@@ -2,7 +2,7 @@ title: "War And Propoganda"
 email: chsonali26@gmail.com
 timezone: CET
 permalink: "/:title/"
-logo: 'assets/images/new_logo.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sonali
 paginate: 30

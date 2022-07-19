@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy Holidays Ukrainians"
-author: john
+author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/9.jpg
 ---

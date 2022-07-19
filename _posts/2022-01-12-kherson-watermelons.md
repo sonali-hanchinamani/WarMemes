@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We want watermelons from Kherson!"
-author: sal
+author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/10.jpg
 ---

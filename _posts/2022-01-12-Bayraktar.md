@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "National Bayraktar"
-author: sal
+author: Anastasia
 categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---

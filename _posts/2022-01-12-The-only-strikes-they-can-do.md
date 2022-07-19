@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The only protests they can do"
-author: sal
+author: Anastasia
 categories: [ Jekyll, tutorial ]
 image: assets/images/17.jpg
 ---

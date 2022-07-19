@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "International Legion. Newbies"
-author: sal
+author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---

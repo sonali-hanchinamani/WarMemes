@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ben Stiller arrived within the Lend-lease"
-author: john
+author: Anastasia
 categories: [ Jekyll, tutorial ]
 image: assets/images/18.jpg
 ---
@@ -10,9 +10,13 @@ Understandably, Ukraine put lots of hope into the arrival of new weaponry.
 Just weeks after the lend lease agreement was signed, Ben Stiller visited Kiev and met with President Zelensky. Ukrainians joked that the actor came as part of the lend lease and fight on the front-lines, just like his character in “Tropic Thunder” did.
 
 Related links:
-https://www.nbcnews.com/news/world/ben-stiller-meets-zelenskyy-ukraine-refugees-rcna34472
-https://www.defense.gov/News/News-Stories/Article/Article/3025302/biden-signs-lend-lease-act-to-supply-more-security-assistance-to-ukraine/
-https://en.wikipedia.org/wiki/Lend-Lease
+
+<https://www.nbcnews.com/news/world/ben-stiller-meets-zelenskyy-ukraine-refugees-rcna34472 />
+
+<https://www.defense.gov/News/News-Stories/Article/Article/3025302 />
+
+<biden-signs-lend-lease-act-to-supply-more-security-assistance-to-ukraine />
+<https://en.wikipedia.org/wiki/Lend-Lease />
 
 
 <p><image style="width:100%;" height="315" src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-227710-MCDTRTH_EC044_H.jpg" frameborder="0" allowfullscreen></image></p>

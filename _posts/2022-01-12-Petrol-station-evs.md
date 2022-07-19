@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ukrainians...pertol... me"
-author: sal
+author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/8.jpg
 ---
