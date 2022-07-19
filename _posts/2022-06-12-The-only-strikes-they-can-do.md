@@ -7,7 +7,7 @@ image: assets/images/17.jpg
 ---
 Following the Russian invasion of Ukraine on 24 February 2022, anti-war demonstrations and protests broke out across Russia. As well as the demonstrations, a number of petitions and open letters have been penned in opposition to the war, and a number of public figures, both cultural and political, have released statements against the war.
 
->The protests have been met with widespread repression by the Russian authorities. Human rights organisations and reporters have raised concerns of police brutality during arrests and OVD-Info (an independent Russian human rights media project aimed at combating political persecution)  reported several cases of protestors being tortured under detention.
+The protests have been met with widespread repression by the Russian authorities. Human rights organisations and reporters have raised concerns of police brutality during arrests and OVD-Info (an independent Russian human rights media project aimed at combating political persecution)  reported several cases of protestors being tortured under detention.
 
 On May 16th 2022, the McDonald’s Enterprise announced their exit from Russia and explicitly stated the Ukraine invasion as the reason as to why. 
 In June Russian businessman Alexander Govor opened Vkusno i tochka (a rebranded version of McDonald’s), after being sold the Russian Franchise by McDonald’s.
