@@ -5,7 +5,7 @@ author: Sonali
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---
-https://en.wikipedia.org/wiki/Lara_Croft%3A_Tomb_Raider
+<https://en.wikipedia.org/wiki/Lara_Croft%3A_Tomb_Raider/>
 
 Angelina Jolie visited Lviv in late April in her role as United Nations special envoy for refugees. Jolie is well known for her acting roles in many movies, Lara Croft: Tomb Raider (2001) among other things. As Lara Croft she obtains ancient artifacts from old gravesites. 
 
